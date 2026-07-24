@@ -33,3 +33,26 @@ Building real-world applications • AI Enthusiast
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,js,react,nodejs&theme=dark" />
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laxmiverse&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=laxmiverse&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmiverse&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laxmiverse&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
